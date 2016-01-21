@@ -7,10 +7,11 @@
   "license": "BSD",
   "authors": "Google, Inc",
   "source": {
-    "http": "http://sdk.pixpie.co/WebP.zip"
+    "git": "https://github.com/BomjKolyadun/WebPFramework.git",
+    "tag": "0.5.0"
   },
   "platforms": {
-    "ios": "7.0"
+    "ios": "8.0"
   },
   "requires_arc": true,
   "public_header_files": "Frameworks/WebP.framework/**/*.h",
