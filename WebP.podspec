@@ -21,6 +21,6 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.public_header_files = "Pod/Frameworks/WebP.framework/**/*.h"
   s.vendored_frameworks = 'Pod/Frameworks/WebP.framework'
-  s.source = { :http => "downloads.webmproject.org/releases/webp/libwebp-0.5.0-ios-framework.tar.gz", :flatten => true }
+  s.source = { :http => "downloads.webmproject.org/releases/webp/libwebp-0.5.0-ios-framework.tar.gz" }
   s.xcconfig = { :'FRAMEWORK_SEARCH_PATHS' => '$(PODS_ROOT)/WebP' }
 end
