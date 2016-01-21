@@ -1,1 +1,1 @@
-../../../../../../Pod/Frameworks/WebP.framework/Headers/decode.h
+../../../../../../Frameworks/WebP.framework/Headers/decode.h

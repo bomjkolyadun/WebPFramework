@@ -1,1 +1,1 @@
-../../../../../../Pod/Frameworks/WebP.framework/Headers/format_constants.h
+../../../../../../Frameworks/WebP.framework/Headers/format_constants.h

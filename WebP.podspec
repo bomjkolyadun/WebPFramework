@@ -1,11 +1,3 @@
-#
-# Be sure to run `pod lib lint WebP.podspec' to ensure this is a
-# valid spec before submitting.
-#
-# Any lines starting with a # are optional, but their use is encouraged
-# To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
-#
-
 Pod::Spec.new do |s|
   s.name             = "WebP"
   s.version          = "0.5.0"
@@ -19,8 +11,8 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, '7.0'
   s.requires_arc = true
-  s.public_header_files = "Pod/Frameworks/WebP.framework/**/*.h"
-  s.vendored_frameworks = 'Pod/Frameworks/WebP.framework'
-  s.source = { :http => "downloads.webmproject.org/releases/webp/libwebp-0.5.0-ios-framework.tar.gz" }
+  s.public_header_files = "Frameworks/WebP.framework/**/*.h"
+  s.vendored_frameworks = 'Frameworks/WebP.framework'
+  s.source = { :http => "http://sdk.pixpie.co/WebP.zip" }
   s.xcconfig = { :'FRAMEWORK_SEARCH_PATHS' => '$(PODS_ROOT)/WebP' }
 end

@@ -1,1 +1,1 @@
-../../../../../../Pod/Frameworks/WebP.framework/Headers/config.h
+../../../../../../Frameworks/WebP.framework/Headers/config.h

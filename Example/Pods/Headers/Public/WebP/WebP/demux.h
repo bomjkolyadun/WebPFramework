@@ -1,1 +1,1 @@
-../../../../../../Pod/Frameworks/WebP.framework/Headers/demux.h
+../../../../../../Frameworks/WebP.framework/Headers/demux.h

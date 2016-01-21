@@ -1,1 +1,1 @@
-../../../../../../Pod/Frameworks/WebP.framework/Headers/extras.h
+../../../../../../Frameworks/WebP.framework/Headers/extras.h

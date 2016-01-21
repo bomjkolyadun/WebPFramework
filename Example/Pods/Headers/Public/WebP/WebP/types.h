@@ -1,1 +1,1 @@
-../../../../../../Pod/Frameworks/WebP.framework/Headers/types.h
+../../../../../../Frameworks/WebP.framework/Headers/types.h

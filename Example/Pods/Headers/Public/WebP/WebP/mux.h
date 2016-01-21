@@ -1,1 +1,1 @@
-../../../../../../Pod/Frameworks/WebP.framework/Headers/mux.h
+../../../../../../Frameworks/WebP.framework/Headers/mux.h
