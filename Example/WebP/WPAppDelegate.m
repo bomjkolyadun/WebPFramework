@@ -7,7 +7,7 @@
 //
 
 #import "WPAppDelegate.h"
-#import <WebP/encode.h>
+@import WebP.encode;
 
 @implementation WPAppDelegate
 
