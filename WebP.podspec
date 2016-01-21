@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://developers.google.com/speed/webp/"
   s.license          = 'BSD'
   s.author           = "Google, Inc"
-  s.source           = { :git => "https://github.com/BomjKolyadun/WebPFramework.git", :tag => '0.5.0' }
+  s.source           = { :http => "sdk.pixpie.co/WebP.zip" }
 
   s.platform     = :ios, '8.0'
   s.requires_arc = true
