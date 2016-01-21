@@ -13,6 +13,5 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.public_header_files = "Frameworks/WebP.framework/**/*.h"
   s.vendored_frameworks = 'Frameworks/WebP.framework'
-  s.source = { :http => "http://sdk.pixpie.co/WebP.zip" }
-  s.xcconfig = { :'FRAMEWORK_SEARCH_PATHS' => '$(PODS_ROOT)/WebP' }
+  s.xcconfig = { :'FRAMEWORK_SEARCH_PATHS' => '$(PODS_ROOT)/WebP'}
 end
