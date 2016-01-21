@@ -1,0 +1,6 @@
+framework module Pods_WebP_Tests {
+  umbrella header "Pods-WebP_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

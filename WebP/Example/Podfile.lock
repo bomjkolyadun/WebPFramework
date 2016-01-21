@@ -1,0 +1,16 @@
+PODS:
+  - WebP (0.5.0)
+
+DEPENDENCIES:
+  - WebP (from `../`)
+
+EXTERNAL SOURCES:
+  WebP:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WebP: ee8e306961d19b94649068e9ddaff2393c109c51
+
+PODFILE CHECKSUM: 5c020de8308ffc859eec500a596810acfc633daf
+
+COCOAPODS: 1.0.0.beta.2

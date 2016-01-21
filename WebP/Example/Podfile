@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'WebP_Example' do
+  pod "WebP", :path => "../"
+end
+
+target 'WebP_Tests' do
+  pod "WebP", :path => "../"
+
+  
+end
